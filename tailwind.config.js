@@ -6,10 +6,14 @@ module.exports = {
   ],
   darkMode: false,
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'syasinn1':"url('')"}
+    },
   },
   variants: {
     extend: {},
   },
   plugins: [],
 };
+
